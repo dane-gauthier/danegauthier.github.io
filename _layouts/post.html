@@ -2,54 +2,20 @@
 layout: default
 ---
 
-  <header class="post-header">
+<section class="section">
+    <div class="container">
+        <div class="heading has-text-centered">
+            <p class="title is-3">{{page.title}}</p>
+            <p class="subtitle is-6"><span class="tag is-white"><small>{{ page.date | date: '%B %d, %Y'}}</small></span></p>
+        </div>
+        <br>
+        <div class="columns is-multiline">
 
-    <center><div class="post-title" itemprop="name headline">{{ page.title }}</div>
-
-		<div class="post-meta"><i class="fa fa-calendar-o"></i> <time datetime="{{ page.date | date_to_string }}" itemprop="datePublished">{{ page.date | date: "%b %-d %Y" }}</time>
-
-		{% if page.author %}&nbsp;&nbsp;•&nbsp;&nbsp;<i class="fa fa-user-secret"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span>
-        {% endif %}
-		<br>
-		<i class="fa fa-eye"></i> <span id="busuanzi_value_page_pv"><i class="fa fa-spinner fa-pulse"></i></span>˚C</span>
-	</div>
-
-        {% if page.tags %}
-        <div class="post-tags">
-        {% for tag in page.tags %}
-		<a class="post-tags-item" href="{{ site.url }}{{ site.baseurl }}/tags/">{{ tag }}</a>
-        {% endfor %}
-	{% endif %}</div>
-    </center>
-    
-</header>
-
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-<div class="post-content">
-    <center>
-	{% if page.subtitle %}
-	<p>{{ page.subtitle }}</p>
-	{% endif %}
-    </center>
-	<h2>Directory</h2>
-</div>
-
-<div id="category"></div>
-
-<div class="post-content" itemprop="articleBody">
-    {{ content }}
-</div>
-
-<div>
-	{% if page.finished %}
-	<div class="eof"></div>
-	{% else %}
-	<div class="tbc"></div>
-	{% endif %}
-</div>
-
-{% include share.html %}
-
-{% include disqus.html %}
-
-</article>
+            <div class="column is-half is-offset-one-quarter">
+                <div class="content">
+                    {{content}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
