@@ -1,10 +1,10 @@
 # Site settings
-name: name
-email: email
-url: url
+name: Dane Gauthier
+email: Dane@danegauthier.com  
+url: 
 description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+author: ""
+title: ""
 permalink: pretty
 baseurl: 
 
