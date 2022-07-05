@@ -7,8 +7,8 @@
         "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
         "technologies": [
             "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
-        ]
-        [
+            }]
+    [{  
         "items": [{
         "name": "Project Two",
         "link": "",
@@ -17,6 +17,6 @@
         "description": "This is a description<br><small><em>attribute - attribute link</em></small>",
         "technologies": [
             "Java", "Spring Framework", "Postgres", "JavaScript", "AngularJS"
-        ]
+        
     }]
 }
