@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello World!"
-date: 2022-06-10 12:00:00 -0500
+title: "Hello World2!"
+date: 2023-01-02 12:00:00 -0500
 ---
 
-Hey, it's just my first post!
+Hey, it's just my second post!
