@@ -93,17 +93,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+     When I’m not at my desk, I spend as much time outdoors as I can. I’m currently into wakesurfing and rollerblading, but my passion for skating runs deep. 
+     Years ago, I took part in a unique event called the Athens to Atlanta Road Skate—a long-distance inline skating marathon across open roads in Georgia. 
+     I completed the full 87-mile course in about 8 hours and have also skated the 38-mile segment in just over 3. It’s still one of my favorite stories to tell.
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
