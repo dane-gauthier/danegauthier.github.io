@@ -27,7 +27,8 @@ linkedin_username: danegauthier
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hey, I’m Dane Gauthier. I’ve been solving desktop and cloud tech challenges for over 15 years, with a current focus on <mark>Azure Virtual Desktop</mark>. 
+  I’m exploring my next opportunity, and I put this together to share a bit of how I think and what I can bring to a team.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
