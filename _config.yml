@@ -9,7 +9,7 @@ version: 2
 name: Dane Gauthier
 title: Your job title
 email: Dane@danegauthier.tech
-email_title: Email (Email title override)
+# email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
