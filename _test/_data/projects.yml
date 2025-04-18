@@ -2,8 +2,8 @@
 - layout: top-middle
   name: Project
   link: 
-  github: 
-  quote: 
+  github: sproogen/modern-resume-theme
+  quote: >
     Short overview of the project
   description: >
     Description about the work on/with the project
