@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Dane Gauthier
 title: Your job title
-email: Dane@danegauthier.tech
-email: Danegauthier@gmail.com
+email1: Dane@danegauthier.tech
+email2: Danegauthier@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
