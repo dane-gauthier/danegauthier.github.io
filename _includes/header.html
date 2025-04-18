@@ -20,6 +20,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.resume_username -%}
+        <li>
+          <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+            <i class="fab fa-file" title="Resume"></i>
+          </a>
+        </li>
+      {%- endif -%}
       </ul>
 
       {%- if site.email1 -%}
