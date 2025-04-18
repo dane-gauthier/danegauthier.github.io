@@ -26,10 +26,14 @@ linkedin_username: danegauthier
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-Hey, I’m Dane Gauthier. I’ve been solving desktop and cloud tech challenges for over 15 years.
-The things that I currently have the most experience working with are <mark>Azure Virtual Desktop</mark>,<mark>Hardware refresh</mark>
-I’m exploring my next opportunity, and I put this together to share a bit of how I think and what I can bring to a team.
+about_content: | 
+<p>
+  Hey, I’m Dane Gauthier. I’ve been solving desktop and cloud tech challenges for over 15 years. The things that I currently have the most experience working with are 
+  <mark>Azure Virtual Desktop</mark> <mark>Hardware refresh</mark>.
+</p>
+<p>
+  I’m exploring my next opportunity, and I put this together to share a bit of how I think and what I can bring to a team.
+</p>
 
 content:
   - title: Projects # Title for the section
