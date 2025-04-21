@@ -46,8 +46,7 @@ content:
         quote: >
            
         description: | # this will include new lines to allow paragraphs
-          This resume was built using a customized Jekyll base theme that I modified as part of learning how to work with static site generators. 
-          The goal was to develop a fully open-source, cost-effective personal website from the ground up.
+         The resume site is Jekyll theme that I learned how to change everything on it. This taught me about static site generators, GitHub, and Docker. 
   - title: Experience
     layout: list
     content:
