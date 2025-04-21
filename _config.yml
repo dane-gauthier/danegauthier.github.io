@@ -51,8 +51,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: Company name
-        sub_title: Job title
+        title: TEKsystems – Thyssenkrupp Materials 
+        sub_title: Azure Virtual Desktop Specialist
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
@@ -60,6 +60,77 @@ content:
         description: | # this will include new lines to allow paragraphs
           -Description of role
           -Description of role
+      - layout: left
+        title: TEKsystems - CONA Services 
+        sub_title: Senior IT Support Specialist
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          -Description of role
+          -Description of role
+      - layout: left
+        title: Scientific Games
+        sub_title: End-User Computing Engineer
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          -Description of role
+          -Description of role
+      - layout: left
+        title: Artivion
+        sub_title: Information Systems Specialist III
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          -Description of role
+          -Description of role
+      - layout: left
+        title: Hays – UCB Pharma 
+        sub_title: Desktop Support Technician
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          -Description of role
+          -Description of role
+      - layout: left
+        title: Compucom
+        sub_title: Lead Field Refresh Technician
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          -Description of role
+          -Description of role
+      - layout: left
+        title: CBM Technology
+        sub_title:  IT Specialist
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          -Description of role
+          -Description of role
+      - layout: left
+        title: Ntense Technologies
+        sub_title: IT Technician
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          -Description of role
+          -Description of role
+                                     
   - title: Education
     layout: list
     content:
