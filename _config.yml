@@ -44,9 +44,10 @@ content:
             icon: fab fa-github
             url: github.com/dane-gauthier/danegauthier.github.io
         quote: >
-          Short overview of the project (optional)
+           
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This resume was built using a customized Jekyll base theme that I modified as part of learning how to work with static site generators. 
+          The goal was to develop a fully open-source, cost-effective personal website from the ground up.
   - title: Experience
     layout: list
     content:
@@ -74,12 +75,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-     When I’m not at my desk, I spend as much time outdoors as I can. I’m currently into wakesurfing and rollerblading, but my passion for skating runs deep. 
-     Years ago, I took part in a unique event called the Athens to Atlanta Road Skate—a long-distance inline skating marathon across open roads in Georgia. 
-     I completed the full 87-mile course in about 8 hours and have also skated the 38-mile segment in just over 3. It’s still one of my favorite stories to tell.
+     When I unplug, I make the most of my time outdoors. I'm into wakesurfing on Lake Lanier and rollerblading along the Atlanta Beltline. 
+     Years ago, I took part a long-distance inline skating race across open roads of Georgia called Athens to Atlanta Road Skate.
+     I completed the race which is roughly 87 mile in about 8 hours. It's accomplishment story that i always want to tell. 
      
      Originally from South Louisiana, Cajun culture is in my roots. Since moving to Atlanta, I’ve had the chance to explore all kinds of new cuisines, 
-     and Indian food has quickly become one of my favorites—thanks to some awesome former housemates who introduced me to it. These days, I can’t resist a good thali plate!
+     and Indian food has quickly become one of my favorites cuisine—thanks to some awesome former housemates who introduced me to it. These days, I can’t resist a good thali plate!
 
 # Footer
 footer_show_references: true
