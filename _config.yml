@@ -54,124 +54,120 @@ content:
         title: UPS 
         sub_title: Automation Support Technician
         caption: September 2024  - March 2025
-        link: https://www.georgiamanufacturingalliance.com/events/ups-smart-hub-tour----atlanta
+        link: 
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role   
+          I help keep UPS’s automated conveyor systems running smoothly by quickly troubleshooting jams, scanner errors, and mechanical issues. 
+          I work with ops and maintenance to minimize downtime and spot routing issues early.  
       - layout: left
         title: CDW – Fisher & Phillips (Contract, Onsite) 
         sub_title: 
         caption: May 2024 - Aug 2024
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+         At Fisher & Phillips, I handled the full laptop lifecycle refresh for over 400 Dell systems—upgrading them from Windows 10 to 11. 
+         I managed user data migration through OneDrive and network solutions and manually configured core business applications (since we weren’t using scripts). 
+         I stuck closely to deployment processes, handled any tech hiccups as they popped up, and made sure users were good to go before wrapping up migration sessions.
       - layout: left
         title: UPS 
         sub_title: Automation Support Technician
         caption: November 2023 - March 2024
-        link: https://www.georgiamanufacturingalliance.com/events/ups-smart-hub-tour----atlanta
+        link: 
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+          I help keep UPS’s automated conveyor systems running smoothly by quickly troubleshooting jams, scanner errors, and mechanical issues. 
+          I work with ops and maintenance to minimize downtime and spot routing issues early, helping our team stay on track with operations goals.  
       - layout: left
         title: TEKsystems – Thyssenkrupp Materials 
         sub_title: Azure Virtual Desktop Specialist
         caption: July 2023 - October 2023
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+         Short but impactful stint! I supported second- and third-level AVD tickets and worked with the lead engineer on weekly updates to the Change Advisory Board. 
+         I built Azure Insight reports to monitor host pool usage and troubleshoot latency. 
+         I also collaborated closely with our MSP, Logicallas, to keep the cloud environment running smoothly.
       - layout: left
         title: TEKsystems - CONA Services 
         sub_title: Senior IT Support Specialist
         caption: June 2022 - June 2023
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+         I was the go-to AVD expert here, supporting 500 concurrent users globally. 
+         I handled software updates using winget, onboarded Windows 365 Cloud PCs for remote teams, and led the transition to Windows 11 using Intune, Autopilot, and LAPS. 
+         I also worked on building out our internal knowledge base and provided support both onsite and remotely. 
       - layout: left
         title: Scientific Games
         sub_title: End-User Computing Engineer
         caption: June 2019 - November 2021
         link: 
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+         I supported Tier 3 issues across North America and managed AVD deployments. 
+         I worked with procurement on quarterly hardware budgets for 2,000+ devices, administered MECM, and improved our image deployment process. 
+         I also led automation efforts and built a self-service system for updates, plus met regularly with global teams to coordinate image changes and stay compliant with security standards.     
       - layout: left
         title: Artivion
         sub_title: Information Systems Specialist III
         caption: August 2017 - January 2019
         link: 
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+          Here, I managed both Windows and Mac support, built the initial SCCM OS deployment framework, and used JAMF to standardize Mac environments. 
+          I also handled Active Directory tasks—like Group Policy, DHCP, and DNS.
       - layout: left
         title: Hays – UCB Pharma 
         sub_title: Desktop Support Technician
         caption: March 2016 - July 2017 
         link: 
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+         I supported 1,500 users onsite, completed PC refresh projects, and improved first-contact resolution by 40% within six months. 
+         I also conducted new hire tech onboarding and offered app and security support.
       - layout: left
         title: Compucom
         sub_title: Lead Field Refresh Technician
         caption: August 2015 - December 2015
         link: 
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+
       - layout: left
         title: CBM Technology
         sub_title:  IT Specialist
         caption: July 2011 - February 2015
         link: www.cbm.technology
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
+
       - layout: left
         title: Ntense Technologies
         sub_title: IT Technician
         caption: July 2008 - June 2011
         link: 
         quote: >
-          Short description of the company (optional)
+          Short description of the company 
         description: | # this will include new lines to allow paragraphs
-          -Description of role
-          -Description of role
                                      
   - title: Education
     layout: list
     content:
       - layout: top-middle
         title: South Louisiana Community College
-        sub_title: A.S. Information Technology
-        caption: 
-        quote: >
+        sub_title: A.S. Information Technology 
 
-        description: | # this will include new lines to allow paragraphs
-          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
