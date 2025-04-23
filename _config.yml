@@ -151,7 +151,11 @@ content:
         quote: >
           Short description of the company 
         description: | # this will include new lines to allow paragraphs
-
+         Provided MSP support (on-site and remote) for clients in sectors like local and state government, sugar production, law enforcement, legal services, oil&gas and retail. 
+         Technical issues from everyday hardware and software troubleshooting to new PC setups, software rollouts, network cabling, and full migrations domains and exchange. 
+         Responsible for maintaining detailed work logs in ConnectWise to support accurate tracking and billing. 
+         During a period my main responsibilities was serving as the dedicated onsite sysadmin for a large client. I would report onsite after our company standup meetings.
+         Addressing tech issues, IT goal projects, PC refreshes, and updating business-critical applications changes in AD, Group Policy, Exchange, and supported a custom HRIS system built with Access and SQL.
       - layout: left
         title: Ntense Technologies
         sub_title: IT Technician
@@ -160,6 +164,10 @@ content:
         quote: >
           Short description of the company 
         description: | # this will include new lines to allow paragraphs
+          This was my first gig in the tech world while I was still in college. Basically, I was the go-to person for setting up computers at client offices and hauling equipment between their office and ours. 
+          I also did a ton of network cabling jobs. Back then, spyware and malware were a real headache, so some days I'd be in the office, cleaning computers. 
+          It was a great learning experience – I picked up a lot about setting up computer images and even got to know the ins and outs of wireless internet equipment. 
+          Our clients span various sectors, from law enforcement and legal firms to student housing, the oil&gas industry, and retail.
                                      
   - title: Education
     layout: list
