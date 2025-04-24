@@ -142,7 +142,10 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-
+         Worked on a short-term project refreshing PCs at Walmart Supercenters and Neighborhood Markets across South Louisiana. 
+         The main goal was upgrading hardware from Windows XP to Windows 7—covering everything from front-of-store kiosks and pharmacy computers to management and security systems. 
+         I followed a structured process for swapping out each type of hardware, handling data migration, and troubleshooting any issues that popped up along the way. 
+         I also managed the on-site techs, tracked inventory, and made sure all updates were accurately logged into the project system.
       - layout: left
         title: CBM Technology
         sub_title:  IT Specialist
