@@ -85,7 +85,7 @@ content:
         title: Thyssenkrupp Materials (TEKsystems) 
         sub_title: Azure Virtual Desktop Specialist
         caption: July 2023 - October 2023
-        link: 
+        link: thyssenkrupp-materials-na.com
         quote: >
            Global supplier of materials for the manufacturing and construction industries 
         description: | # this will include new lines to allow paragraphs
@@ -96,7 +96,7 @@ content:
         title: CONA Services (TEKsystems)
         sub_title: Senior IT Support Specialist
         caption: June 2022 - June 2023
-        link: 
+        link: conaservices.com
         quote: >
           Provides IT solutions for Coca-Cola bottlers in North America. 
         description: | # this will include new lines to allow paragraphs
@@ -107,7 +107,7 @@ content:
         title: Scientific Games
         sub_title: End-User Computing Engineer
         caption: June 2019 - November 2021
-        link: 
+        link: scientificgames.com
         quote: >
           Global leader in lottery games, casino technologies, and services for government-sponsored lotteries. 
         description: | # this will include new lines to allow paragraphs
@@ -118,7 +118,7 @@ content:
         title: Artivion
         sub_title: Information Systems Specialist III
         caption: August 2017 - January 2019
-        link: 
+        link: artivion.com
         quote: >
           Medical device company specializing in aortic disease treatments, including stent grafts, heart valves, and sealants. 
         description: | # this will include new lines to allow paragraphs
@@ -128,7 +128,7 @@ content:
         title: UCB Pharma (Hays)
         sub_title: Desktop Support Technician
         caption: March 2016 - July 2017 
-        link: 
+        link: ucb.com
         quote: >
           Global biopharmaceutical company focused on innovative medicines for severe immunology and neurology diseases.
         description: | # this will include new lines to allow paragraphs
@@ -147,7 +147,7 @@ content:
         title: CBM Technology
         sub_title:  IT Specialist
         caption: July 2011 - February 2015
-        link: www.cbm.technology
+        link: cbm.technology
         quote: >
           Managed IT service provider in Breaux Bridge, LA 
         description: | # this will include new lines to allow paragraphs
