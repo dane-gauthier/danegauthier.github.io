@@ -44,7 +44,7 @@ content:
             icon: fab fa-github
             url: github.com/danegauthier/danegauthier.github.io
         quote: >
-           
+
         description: | # this will include new lines to allow paragraphs
          The resume site is Jekyll theme that I learned how to change everything on it. This taught me about static generated sites, GitHub, and Docker. 
   - title: Experience
@@ -64,7 +64,7 @@ content:
         title: Fisher & Phillips (CDW)
         sub_title: Refresh Technical
         caption: May 2024 - Aug 2024
-        link: Link to company (optional)
+        link: 
         quote: >
           National law firm specializing in labor and employment law for employers 
         description: | # this will include new lines to allow paragraphs
@@ -85,7 +85,7 @@ content:
         title: Thyssenkrupp Materials (TEKsystems) 
         sub_title: Azure Virtual Desktop Specialist
         caption: July 2023 - October 2023
-        link: Link to company (optional)
+        link: 
         quote: >
            Global supplier of materials for the manufacturing and construction industries 
         description: | # this will include new lines to allow paragraphs
@@ -96,7 +96,7 @@ content:
         title: CONA Services (TEKsystems)
         sub_title: Senior IT Support Specialist
         caption: June 2022 - June 2023
-        link: Link to company (optional)
+        link: 
         quote: >
           Provides IT solutions for Coca-Cola bottlers in North America. 
         description: | # this will include new lines to allow paragraphs
@@ -120,7 +120,7 @@ content:
         caption: August 2017 - January 2019
         link: 
         quote: >
-          medical device company specializing in aortic disease treatments, including stent grafts, heart valves, and sealants. 
+          Medical device company specializing in aortic disease treatments, including stent grafts, heart valves, and sealants. 
         description: | # this will include new lines to allow paragraphs
           Here, I managed both Windows and Mac support, built the initial SCCM OS deployment framework, and used JAMF to standardize Mac environments. 
           I also handled Active Directory tasks—like Group Policy, DHCP, and DNS.
@@ -162,7 +162,7 @@ content:
         caption: July 2008 - June 2011
         link: 
         quote: >
-          Small  IT consulting in Lafayette, LA
+          Small  IT consulting comapny in Lafayette, LA
         description: | # this will include new lines to allow paragraphs
           This was my first gig in the tech world while I was still in college. Basically, I was the go-to person for setting up computers at client offices and hauling equipment between their office and ours. 
           I also did a ton of network cabling jobs. Back then, spyware and malware were a real headache, so some days I'd be in the office, cleaning computers. 
