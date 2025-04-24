@@ -121,8 +121,17 @@ content:
         quote: >
           Medical device company specializing in aortic disease treatments, including stent grafts, heart valves, and sealants. 
         description: | # this will include new lines to allow paragraphs
-          Here, I managed both Windows and Mac support, built the initial SCCM OS deployment framework, and used JAMF to standardize Mac environments. 
-          I also handled Active Directory tasks—like Group Policy, DHCP, and DNS.
+          I continued my career in IT Support by providing day-to-day hardware and software support for onsite staff, the field sales team, and overseas offices in Europe. 
+          As I progressed in this role, I took on additional responsibilities managing SCCM, JAMF, and the Avaya phone system. When SCCM was introduced, the sysadmin team 
+          had limited bandwidth to manage OS deployment operations, so I led the implementation—developing task sequences for Windows 10 imaging and application packages,
+           ensuring successful deployments across the entire hardware fleet.
+
+          As the environment evolved, JAMF was introduced to manage a fleet of Mac laptops for a user choice program targeting the sales and executive teams. 
+          I played a key role in this initiative by creating baseline configuration profiles and policies, and by packaging and deploying applications to support 
+          the Mac environment. During this period, I also led the migration project that transitioned users from their previous Windows devices to their selected laptops. 
+          This included prepping equipment before shipping, coordinating scheduling with the sales team, managing logistics, migrating user data, and resolving any technical issues that arose.
+
+          Lastly, I had the opportunity to provide IT support at onsite sales conferences in Miami and travel to Germany to cross-train with overseas team members following a company acquisition
       - layout: left
         title: UCB Pharma (Hays)
         sub_title: Desktop Support Technician
@@ -132,7 +141,7 @@ content:
           Global biopharmaceutical company focused on innovative medicines for severe immunology and neurology diseases.
         description: | # this will include new lines to allow paragraphs
          I was hired to manage a laptop lifecycle refresh project, overseeing upgrade of 200 laptops. 
-         I imaged laptops using a corporate SCCM imaging process and worked closely with end users to ensure a smooth transition from old to new laptop, 
+         I imaged laptops using a corporate <mark>SCCM</mark> imaging process and worked closely with end users to ensure a smooth transition from old to new laptop, 
          including data migration, software installation, and user settings. After project completion, perform cleanup computer object in Active Directory.
          Following this, I transitioned into a new role where I managed new hire equipment orientations and provided on-site technical support at the campus. 
          I handled on-site tickets, addressing issues related to laptops, business software, cell phones, and desk moves. I also managed asset assignments within BMC Helix ITSM.
