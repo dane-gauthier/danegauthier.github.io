@@ -132,8 +132,11 @@ content:
         quote: >
           Global biopharmaceutical company focused on innovative medicines for severe immunology and neurology diseases.
         description: | # this will include new lines to allow paragraphs
-         I supported 1,500 users onsite, completed PC refresh projects, and improved first-contact resolution by 40% within six months. 
-         I also conducted new hire tech onboarding and offered app and security support.
+         I was hired to manage a laptop lifecycle refresh project, overseeing upgrade of 200 laptops. 
+         I imaged laptops using the corporate SCCM imaging process and worked closely with end users to ensure a smooth transition from old to new laptop, including data migration, software installation, and user settings. 
+         Upon project completion, Upon project completion, perform cleanup computer object in Active Directory.
+         Following this, I transitioned into a new role where I managed new hire equipment orientations and provided on-site technical support at the campus. 
+         I handled on-site tickets, addressing issues related to laptops, business software, cell phones, and desk moves. I also managed asset assignments within BMC Helix ITSM.
       - layout: left
         title: Walmart (Compucom)
         sub_title: Lead Field Refresh Technician
