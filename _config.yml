@@ -37,12 +37,12 @@ content:
       - layout: top-middle
         border: weak  
         title: danegauthier.tech
-        link: github.com/dane-gauthier/danegauthier.github.io
-        link_text: dane-gauthier/danegauthier.github.io
+        link: github.com/danegauthier/danegauthier.github.io
+        link_text: danegauthier/danegauthier.github.io
         additional_links:
-          - title: github.com/dane-gauthier/danegauthier.github.io
+          - title: github.com/danegauthier/danegauthier.github.io
             icon: fab fa-github
-            url: github.com/dane-gauthier/danegauthier.github.io
+            url: github.com/danegauthier/danegauthier.github.io
         quote: >
            
         description: | # this will include new lines to allow paragraphs
@@ -56,17 +56,17 @@ content:
         caption: September 2024  - March 2025
         link: 
         quote: >
-          Short description of the company 
+          UPS is a global leader in package delivery and supply chain solutions. 
         description: | # this will include new lines to allow paragraphs
           I help keep UPS’s automated conveyor systems running smoothly by quickly troubleshooting jams, scanner errors, and mechanical issues. 
           I work with ops and maintenance to minimize downtime and spot routing issues early.  
       - layout: left
-        title: CDW – Fisher & Phillips (Contract, Onsite) 
-        sub_title: 
+        title: Fisher & Phillips (CDW)
+        sub_title: Refresh Technical
         caption: May 2024 - Aug 2024
         link: Link to company (optional)
         quote: >
-          Short description of the company 
+          National law firm specializing in labor and employment law for employers 
         description: | # this will include new lines to allow paragraphs
          At Fisher & Phillips, I handled the full laptop lifecycle refresh for over 400 Dell systems—upgrading them from Windows 10 to 11. 
          I managed user data migration through OneDrive and network solutions and manually configured core business applications (since we weren’t using scripts). 
@@ -77,28 +77,28 @@ content:
         caption: November 2023 - March 2024
         link: 
         quote: >
-          Short description of the company 
+          UPS is a global leader in package delivery and supply chain solutions. 
         description: | # this will include new lines to allow paragraphs
           I help keep UPS’s automated conveyor systems running smoothly by quickly troubleshooting jams, scanner errors, and mechanical issues. 
           I work with ops and maintenance to minimize downtime and spot routing issues early, helping our team stay on track with operations goals.  
       - layout: left
-        title: TEKsystems – Thyssenkrupp Materials 
+        title: Thyssenkrupp Materials (TEKsystems) 
         sub_title: Azure Virtual Desktop Specialist
         caption: July 2023 - October 2023
         link: Link to company (optional)
         quote: >
-          Short description of the company 
+           Global supplier of materials for the manufacturing and construction industries 
         description: | # this will include new lines to allow paragraphs
          Short but impactful stint! I supported second- and third-level AVD tickets and worked with the lead engineer on weekly updates to the Change Advisory Board. 
          I built Azure Insight reports to monitor host pool usage and troubleshoot latency. 
          I also collaborated closely with our MSP, Logicallas, to keep the cloud environment running smoothly.
       - layout: left
-        title: TEKsystems - CONA Services 
+        title: CONA Services (TEKsystems)
         sub_title: Senior IT Support Specialist
         caption: June 2022 - June 2023
         link: Link to company (optional)
         quote: >
-          Short description of the company 
+          Provides IT solutions for Coca-Cola bottlers in North America. 
         description: | # this will include new lines to allow paragraphs
          I was the go-to AVD expert here, supporting 500 concurrent users globally. 
          I handled software updates using winget, onboarded Windows 365 Cloud PCs for remote teams, and led the transition to Windows 11 using Intune, Autopilot, and LAPS. 
@@ -109,7 +109,7 @@ content:
         caption: June 2019 - November 2021
         link: 
         quote: >
-          Short description of the company 
+          Global leader in lottery games, casino technologies, and services for government-sponsored lotteries. 
         description: | # this will include new lines to allow paragraphs
          I supported Tier 3 issues across North America and managed AVD deployments. 
          I worked with procurement on quarterly hardware budgets for 2,000+ devices, administered MECM, and improved our image deployment process. 
@@ -120,27 +120,27 @@ content:
         caption: August 2017 - January 2019
         link: 
         quote: >
-          Short description of the company 
+          medical device company specializing in aortic disease treatments, including stent grafts, heart valves, and sealants. 
         description: | # this will include new lines to allow paragraphs
           Here, I managed both Windows and Mac support, built the initial SCCM OS deployment framework, and used JAMF to standardize Mac environments. 
           I also handled Active Directory tasks—like Group Policy, DHCP, and DNS.
       - layout: left
-        title: Hays – UCB Pharma 
+        title: UCB Pharma (Hays)
         sub_title: Desktop Support Technician
         caption: March 2016 - July 2017 
         link: 
         quote: >
-          Short description of the company 
+          Global biopharmaceutical company focused on innovative medicines for severe immunology and neurology diseases.
         description: | # this will include new lines to allow paragraphs
          I supported 1,500 users onsite, completed PC refresh projects, and improved first-contact resolution by 40% within six months. 
          I also conducted new hire tech onboarding and offered app and security support.
       - layout: left
-        title: Compucom
+        title: Walmart (Compucom)
         sub_title: Lead Field Refresh Technician
         caption: August 2015 - December 2015
         link: 
         quote: >
-          Short description of the company 
+
         description: | # this will include new lines to allow paragraphs
 
       - layout: left
@@ -149,9 +149,9 @@ content:
         caption: July 2011 - February 2015
         link: www.cbm.technology
         quote: >
-          Short description of the company 
+          Managed IT service provider in Breaux Bridge, LA 
         description: | # this will include new lines to allow paragraphs
-         Provided MSP support (on-site and remote) for clients in sectors like local and state government, sugar production, school districts, law enforcement, legal services, oil&gas and retail. 
+         Provided support (on-site and remote) for clients in sectors like local and state government, sugar production, school districts, law enforcement, legal services, oil&gas and retail. 
          Technical issues from everyday hardware and software troubleshooting to new PC setups, software rollouts, network cabling, and full migrations domains and exchange. 
          Responsible for maintaining detailed work logs in ConnectWise to support accurate tracking and billing. 
          During a period my main responsibilities was serving as the dedicated onsite sysadmin for a large client. I would report onsite after our company standup meetings.
@@ -162,7 +162,7 @@ content:
         caption: July 2008 - June 2011
         link: 
         quote: >
-          Short description of the company 
+          Small  IT consulting in Lafayette, LA
         description: | # this will include new lines to allow paragraphs
           This was my first gig in the tech world while I was still in college. Basically, I was the go-to person for setting up computers at client offices and hauling equipment between their office and ours. 
           I also did a ton of network cabling jobs. Back then, spyware and malware were a real headache, so some days I'd be in the office, cleaning computers. 
