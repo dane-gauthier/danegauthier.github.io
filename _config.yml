@@ -110,9 +110,20 @@ content:
         quote: >
           Global leader in lottery games, casino technologies, and services for government-sponsored lotteries. 
         description: | # this will include new lines to allow paragraphs
-         I supported Tier 3 issues across North America and managed AVD deployments. 
-         I worked with procurement on quarterly hardware budgets for 2,000+ devices, administered MECM, and improved our image deployment process. 
-         I also led automation efforts and built a self-service system for updates, plus met regularly with global teams to coordinate image changes and stay compliant with security standards.     
+         I started my journey at SG as a subject matter expert for OS deployment and three-level desktop support. This position gave me exposure to a much larger SCCM environment, 
+         which allowed me to enhance my skills in SCCM administration and Windows deployment. I was able to improve OS deployment times and optimize the corporate image our various hardware fleet.
+         I addressed along standing network issues with remote distribution points which allowed remote locations to transition away from USB-based imaging. 
+         As time went on, I picked up a lot more about software packaging and distribution using PowerShell and batch scripting. 
+         I got to use PSAppDeployToolkit to roll out complicated software during OS deployments and to carry out in-place software updates.
+
+         During the pandemic in 2020, I continued to report onsite due to operational requirements and was introduced to Windows Virtual Desktop (WVD). 
+         Our initial goal was to use it for remote work by slot machine game developers, but the project faced obstacles that prevented it from going live.
+         As the pandemic evolved, I spearheaded the Windows 10 migration project, creating in-place task sequences to tackle hardware shortages and budget limitations. 
+         I also assisted contract technicians across North America in executing a seamless hardware refresh and technical upgrade process.
+
+         By the end of my time at SG, the company experienced a divestiture, resulting in the hiring of many external consultants.
+         I identified the opportunity to utilize AVD in this case and took the initiative to expand the environment into multiple 
+         host pools and personal desktops, this grow my expertise in the product.     
       - layout: left
         title: Artivion
         sub_title: Information Systems Specialist III
@@ -131,7 +142,8 @@ content:
           the Mac environment. During this period, I also led the migration project that transitioned users from their previous Windows devices to their selected laptops. 
           This included prepping equipment before shipping, coordinating scheduling with the sales team, managing logistics, migrating user data, and resolving any technical issues that arose.
 
-          Lastly, I had the opportunity to provide IT support at onsite sales conferences in Miami and travel to Germany to cross-train with overseas team members following a company acquisition
+          Lastly, I had the opportunity to provide IT support at onsite sales conferences in Miami and to travel to Germany to cross-train with overseas team members following a company acquisition. 
+          I was also given the opportunity to further my education in JAMF and successfully earned the JAMF 200 certification.
       - layout: left
         title: UCB Pharma (Hays)
         sub_title: Desktop Support Technician
