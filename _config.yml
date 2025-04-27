@@ -110,20 +110,21 @@ content:
         quote: >
           Global leader in lottery games, casino technologies, and services for government-sponsored lotteries. 
         description: | # this will include new lines to allow paragraphs
-         I started my journey at SG as a subject matter expert for OS deployment and three-level desktop support. This position gave me exposure to a much larger SCCM environment, 
-         which allowed me to enhance my skills in SCCM administration and Windows deployment. I was able to improve OS deployment times and optimize the corporate image our various hardware fleet.
-         I addressed along standing network issues with remote distribution points which allowed remote locations to transition away from USB-based imaging. 
-         As time went on, I picked up a lot more about software packaging and distribution using PowerShell and batch scripting. 
-         I got to use PSAppDeployToolkit to roll out complicated software during OS deployments and to carry out in-place software updates.
+          During my time at Scientific Games, I continued to use my support skills while gaining experience with SCCM. 
+          I played a significant role in the Windows 10 migration project and began my knowledge of AVD.
 
-         During the pandemic in 2020, I continued to report onsite due to operational requirements and was introduced to Windows Virtual Desktop (WVD). 
-         Our initial goal was to use it for remote work by slot machine game developers, but the project faced obstacles that prevented it from going live.
-         As the pandemic evolved, I spearheaded the Windows 10 migration project, creating in-place task sequences to tackle hardware shortages and budget limitations. 
-         I also assisted contract technicians across North America in executing a seamless hardware refresh and technical upgrade process.
+          The SCCM responsibilities of the role gave me the opportunity to work in a larger environment. 
+          I enhanced my skills in operating system deployment, successfully decreasing os deployment times by minimizing the need for individual driver packages across the hardware fleet. 
+          I also gained more understanding of the PSADT, which I leverage to deploy complex software packages
 
-         By the end of my time at SG, the company experienced a divestiture, resulting in the hiring of many external consultants.
-         I identified the opportunity to utilize AVD in this case and took the initiative to expand the environment into multiple 
-         host pools and personal desktops, this grow my expertise in the product.     
+          During the Windows 10 migration project, I created an efficient task sequence that upgraded our hardware fleet while managing McAfee encryption.
+          The process transition systems to Windows 10, installing new software, and updating drivers at the conclusion of the process. 
+
+          When the pandemic began, I was introduced to AVD. Our initial goal was to leverage it for remote work by our casino game developers. 
+          However, in the early stages of the platform, we encountered major graphics incompatibilities with our software. 
+          Another use case emerged during the divestiture of the business, we brought in several external consultants to assist. 
+          At the same time, hardware shortages were high due to supply chain issues. 
+          I recognized the opportunity to leverage AVD took the initiative to develop different host pools to support the business case.    
       - layout: left
         title: Artivion
         sub_title: Information Systems Specialist III
