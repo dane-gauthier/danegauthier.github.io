@@ -1,6 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository:
 
 # Content configuration version
 version: 2
@@ -99,9 +98,18 @@ content:
         quote: >
           Provides IT solutions for Coca-Cola bottlers in North America. 
         description: | # this will include new lines to allow paragraphs
-         I was the go-to AVD expert here, supporting 500 concurrent users globally. 
-         I handled software updates using winget, onboarded Windows 365 Cloud PCs for remote teams, and led the transition to Windows 11 using Intune, Autopilot, and LAPS. 
-         I also worked on building out our internal knowledge base and provided support both onsite and remotely. 
+         Working at CONA was an great learning experience. I gain insight into the business technology behind how Coca-Cola bottlers distributed throughout the U.S. 
+         While there, I was part of a small team called Office IT. We served as the main point of contact for employees at all levels, both in-office and remote, 
+         who needed technical assistance with hardware and software issues. We also managed onsite office technology. Additionally, we managed an AVD environment that enabled offshore third-party 
+         contractors to support the homegrown SAP solution known as C1NA (Coke One North America).
+
+         The company heavily architected its environment around Microsoft cloud ecosystem, leveraging the major platforms within Office 365, including Entra, Exchange, Teams, Intune, PowerApps, 
+         and SharePoint. My team member and I supported all of these platforms. As part of my role, I was the primary point of contact for all Intune management, focusing on device management 
+         and software deployment. Some of my major Intune accomplishments include implementing Autopilot, migrating all supported hardware to Windows 11 using feature updates, and implementing LAPS.
+
+         Additionally, I was assigned as the primary SME for the AVD environment. I led ongoing environment changes, educated the offshore Level 1 team, and acted as the last point of contact to resolve 
+         tickets. My major AVD accomplishments included implementing autoscaling across all persistent and non-persistent host pools, allocating proper VM sizing, and leveraging Winget to update software
+         within the environment.
       - layout: left
         title: Scientific Games
         sub_title: End-User Computing Engineer
@@ -110,12 +118,12 @@ content:
         quote: >
           Global leader in lottery games, casino technologies, and services for government-sponsored lotteries. 
         description: | # this will include new lines to allow paragraphs
-          During my time at Scientific Games, I continued to use my support skills while gaining experience with SCCM. 
+          During my time at Scientific Games, I continued to use my support skill background while gaining more experience with SCCM. 
           I played a significant role in the Windows 10 migration project and began my knowledge of AVD.
 
           The SCCM responsibilities of the role gave me the opportunity to work in a larger environment. 
           I enhanced my skills in operating system deployment, successfully decreasing os deployment times by minimizing the need for individual driver packages across the hardware fleet. 
-          I also gained more understanding of the PSADT, which I leverage to deploy complex software packages
+          I also gained more understanding of the PSADT, which I leverage to deploy complex software packages.
 
           During the Windows 10 migration project, I created an efficient task sequence that upgraded our hardware fleet while managing McAfee encryption.
           The process transition systems to Windows 10, installing new software, and updating drivers at the conclusion of the process. 
