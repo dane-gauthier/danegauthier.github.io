@@ -105,7 +105,7 @@ content:
 
          The company heavily architected its environment around Microsoft cloud ecosystem, leveraging the major platforms within Office 365, including Entra, Exchange, Teams, Intune, PowerApps, 
          and SharePoint. My team member and I supported all of these platforms. As part of my role, I was the primary point of contact for all Intune management, focusing on device management 
-         and software deployment. Some of my major Intune accomplishments include implementing Autopilot, migrating all supported hardware to Windows 11 using feature updates, and implementing LAPS.
+         and software deployment. Some of my major Intune accomplishments include implementing Autopilot, migrating all supported hardware to Windows 11 using Feature Update, and implementing LAPS.
 
          Additionally, I was assigned as the primary SME for the AVD environment. I led ongoing environment changes, educated the offshore Level 1 team, and acted as the last point of contact to resolve 
          tickets. My major AVD accomplishments included implementing autoscaling across all persistent and non-persistent host pools, allocating proper VM sizing, and leveraging Winget to update software
