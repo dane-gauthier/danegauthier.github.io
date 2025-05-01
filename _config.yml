@@ -56,8 +56,7 @@ content:
         quote: >
            
         description: | # this will include new lines to allow paragraphs
-          I help keep UPS’s automated conveyor systems running smoothly by quickly troubleshooting jams, scanner errors, and mechanical issues. 
-          I work with ops and maintenance to minimize downtime and spot routing issues early.  
+          
       - layout: left
         title: Fisher & Phillips (CDW)
         sub_title: Refresh Technical
@@ -66,9 +65,7 @@ content:
         quote: >
           National law firm specializing in labor and employment law for employers 
         description: | # this will include new lines to allow paragraphs
-         At Fisher & Phillips, I handled the full laptop lifecycle refresh for over 400 Dell systems—upgrading them from Windows 10 to 11. 
-         I managed user data migration through OneDrive and network solutions and manually configured core business applications (since we weren’t using scripts). 
-         I stuck closely to deployment processes, handled any tech hiccups as they popped up, and made sure users were good to go before wrapping up migration sessions.
+
       - layout: left
         title: UPS 
         sub_title: Automation Support Technician
@@ -77,8 +74,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          I help keep UPS’s automated conveyor systems running smoothly by quickly troubleshooting jams, scanner errors, and mechanical issues. 
-          I work with ops and maintenance to minimize downtime and spot routing issues early, helping our team stay on track with operations goals.  
+
       - layout: left
         title: Thyssenkrupp Materials (TEKsystems) 
         sub_title: Azure Virtual Desktop Specialist
@@ -87,9 +83,10 @@ content:
         quote: >
            Global supplier of materials for the manufacturing and construction industries 
         description: | # this will include new lines to allow paragraphs
-         Short but impactful stint! I supported second- and third-level AVD tickets and worked with the lead engineer on weekly updates to the Change Advisory Board. 
-         I built Azure Insight reports to monitor host pool usage and troubleshoot latency. 
-         I also collaborated closely with our MSP, Logicallas, to keep the cloud environment running smoothly.
+          During my short-term contract at TK, I managed second-level support tickets, addressing network connectivity issues, 
+          printer-related problems, and thin client challenges within the AVD environment. 
+          I also contributed to a project focused on patching host pool VMs and applying software updates to enhance security.
+          At the end of each month, I generated comprehensive host pool utilization reports to support departmental invoicing.
       - layout: left
         title: CONA Services (TEKsystems)
         sub_title: Senior IT Support Specialist
