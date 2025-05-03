@@ -37,14 +37,16 @@ content:
         title: danegauthier.tech
         link: github.com/danegauthier/danegauthier.github.io
         link_text: danegauthier/danegauthier.github.io
-        additional_links:
-          - title: github.com/danegauthier/danegauthier.github.io
-            icon: fab fa-github
-            url: github.com/danegauthier/danegauthier.github.io
+        # additional_links:
+        #  - title: github.com/danegauthier/danegauthier.github.io
+        #    icon: fab fa-github
+        #    url: github.com/danegauthier/danegauthier.github.io
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-         The resume site is Jekyll theme that I learned how to change everything on it. This taught me about static generated sites, GitHub, and Docker. 
+         This website is built using a Jekyll theme and hosted as a static site on GitHub Pages.
+         During its development, I gained experience with HTML/CSS, GitHub commands and repository 
+         management, and Docker for local development and testing. Link above to the GitHub repository.
   - title: Experience
     layout: list
     content:
@@ -65,7 +67,7 @@ content:
         quote: >
           National law firm specializing in labor and employment law for employers 
         description: | # this will include new lines to allow paragraphs
-          During my time at FP, I was part of a hardware refresh project where I provided on-site support to help both in-office 
+          t FP, I was part of a hardware refresh project where I provided on-site support to help both in-office 
           and remote employees and partners transition from Windows 10 to Windows 11 laptops. I followed established deployment 
           procedures, managed end-to-end data migrations, and installed critical business applications. For any issues beyond the 
           project scope, I documented and escalated them through the ticketing system to the appropriate support teams.
