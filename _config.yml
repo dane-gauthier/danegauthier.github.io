@@ -72,15 +72,6 @@ content:
           procedures, managed end-to-end data migrations, and installed critical business applications. For any issues beyond the 
           project scope, I documented and escalated them through the ticketing system to the appropriate support teams.
       - layout: left
-        title: UPS 
-        sub_title: Automation Support Technician
-        caption: November 2023 - March 2024
-        link: 
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-
-      - layout: left
         title: Thyssenkrupp Materials (TEKsystems) 
         sub_title: Azure Virtual Desktop Specialist
         caption: July 2023 - October 2023
