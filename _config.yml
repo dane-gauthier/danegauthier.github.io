@@ -9,11 +9,11 @@ name: Dane Gauthier
 #title: Your job title
 email1: Dane@danegauthier.tech
 email2: Danegauthier@gmail.com
-# email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+# email_title: 
+# phone: 
+# phone_title: 
+# website: 
+# website_title: 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,8 +31,8 @@ about_content: | # this will include new lines to allow paragraphs
  ’m exploring my next opportunity, and I put this together to share a bit of how I think get through imposer syndrone. 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects 
+    layout: list 
     content:
       - layout: top-middle
         border: weak  
@@ -57,10 +57,9 @@ content:
         sub_title: Automation Support Technician
         caption: September 2024  - March 2025
         link: 
-        quote: >
-           
-        description: | # this will include new lines to allow paragraphs
-          
+        quote: 
+        description:
+
       - layout: left
         title: Fisher & Phillips (CDW)
         sub_title: Refresh Technical
@@ -68,7 +67,7 @@ content:
         link: 
         quote: >
           National law firm specializing in labor and employment law for employers 
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           At FP, I was part of a hardware refresh project where I provided on-site support to help both in-office 
           and remote employees and partners transition from Windows 10 to Windows 11 laptops. I followed established deployment 
           procedures, managed end-to-end data migrations, and installed critical business applications. For any issues beyond the 
@@ -80,7 +79,7 @@ content:
         link: thyssenkrupp-materials-na.com
         quote: >
            Global supplier of materials for the manufacturing and construction industries 
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           During my short-term contract at TK, I managed second-level support tickets, addressing network connectivity issues, 
           printer-related problems, and thin client challenges within the AVD environment. 
           I also contributed to a project focused on patching host pool VMs and applying software updates to enhance security.
@@ -92,7 +91,7 @@ content:
         link: conaservices.com
         quote: >
           Provides IT solutions for Coca-Cola bottlers in North America. 
-        description: | # this will include new lines to allow paragraphs
+        description: | 
          Working at CONA was an great learning experience. I gain insight into the business technology behind how Coca-Cola bottlers distributed throughout the U.S. 
          While there, I was part of a small team called Office IT. We served as the main point of contact for employees at all levels, both in-office and remote, 
          who needed technical assistance with hardware and software issues. We also managed onsite office technology. Additionally, we managed an AVD environment that enabled offshore third-party 
@@ -112,7 +111,7 @@ content:
         link: scientificgames.com
         quote: >
           Global leader in lottery games, casino technologies, and services for government-sponsored lotteries. 
-        description: | # this will include new lines to allow paragraphs
+        description: |
           During my time at Scientific Games, I continued to use my support skill background while gaining more experience with SCCM. 
           I played a significant role in the Windows 10 migration project and began my knowledge of AVD.
 
@@ -135,52 +134,51 @@ content:
         link: artivion.com
         quote: >
           Medical device company specializing in aortic disease treatments, including stent grafts, heart valves, and sealants. 
-        description: | # this will include new lines to allow paragraphs
-          I continued my career in IT Support by providing day-to-day hardware and software support for onsite staff, the field sales team, and overseas offices in Europe. 
-          As I progressed in this role, I took on additional responsibilities managing SCCM, JAMF, and the Avaya phone system. When SCCM was introduced, the sysadmin team 
-          had limited bandwidth to manage OS deployment operations, so I led the implementation—developing task sequences for Windows 10 imaging and application packages,
-           ensuring successful deployments across the entire hardware fleet.
+        description: | 
+          I provided day-to-day hardware and software support to onsite staff, sales team, and overseas offices in Europe. 
+          Progressing though role, I took on additional responsibilities managing SCCM, JAMF, and the Avaya phone system. When SCCM was introduced, the systems team 
+          had limited bandwidth to manage OS deployment operations, I was tasked to implementation task sequences for imaging of Windows 10, packaged applications, and ensured deployment across entire hardware fleet.
 
-          As the environment evolved, JAMF was introduced to manage a fleet of Mac laptops for a user choice program targeting the sales and executive teams. 
-          I played a key role in this initiative by creating baseline configuration profiles and policies, and by packaging and deploying applications to support 
-          the Mac environment. During this period, I also led the migration project that transitioned users from their previous Windows devices to their selected laptops. 
-          This included prepping equipment before shipping, coordinating scheduling with the sales team, managing logistics, migrating user data, and resolving any technical issues that arose.
+          As the environment evolved, JAMF was introduced to the managed mac fleet for a user choice program targeting the sales and executive teams. 
+          I played a key role in creating the baseline configuration profiles/policies and baseline packaged application in JAMF.  
+          I led the migration project that transitioned users from their previous Windows devices to their selected laptops. 
+          This included prepping equipment, coordinating migration date, managing hardware logistics, migrating data, and resolving any technical issues that arose.
 
-          Lastly, I had the opportunity to provide IT support at onsite sales conferences in Miami and to travel to Germany to cross-train with overseas team members following a company acquisition. 
-          I was also given the opportunity to further my education in JAMF and successfully earned the JAMF 200 certification.
+          I had the opportunity to provide IT support for sales conferences and to travel overseas to cross-train with team members following a acquisition. 
+          Also further my knowledge in JAMF and earned the JAMF 200 certification.
       - layout: left
         title: UCB Pharma (Hays)
         sub_title: Desktop Support Technician
         caption: March 2016 - July 2017 
         link: ucb.com
-        quote: >
+        quote: 
           Global biopharmaceutical company focused on innovative medicines for severe immunology and neurology diseases.
-        description: | # this will include new lines to allow paragraphs
-         I was hired to manage a laptop lifecycle refresh project, overseeing upgrade of 200 laptops. 
-         I imaged laptops using a corporate <mark>SCCM</mark> imaging process and worked closely with end users to ensure a smooth transition from old to new laptop, 
-         including data migration, software installation, and user settings. After project completion, perform cleanup computer object in Active Directory.
-         Following this, I transitioned into a new role where I managed new hire equipment orientations and provided on-site technical support at the campus. 
-         I handled on-site tickets, addressing issues related to laptops, business software, cell phones, and desk moves. I also managed asset assignments within BMC Helix ITSM.
+        description: | 
+          My start at UCB I solo managed a lease-end quarter refresh project performing upgrades of 200 laptops. 
+          I worked with different level of users to transition from them old to new laptop. Transation process included imaging laptops with SCCM, data migration, software installation, configuring user settings. 
+          and performed cleanup computer object in Active Directory. 
+
+          When project was completed, I transitioned into a new role where I managed new hire equipment orientations and provided technical support at the campus. 
+          I handled on-site tickets, addressing issues related to hardware, business software, cell phones, and desk moves. 
+          Also managed asset assignments within BMC Helix ITSM.
       - layout: left
         title: Walmart (Compucom)
         sub_title: Lead Field Refresh Technician
         caption: August 2015 - December 2015
         link: 
-        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-         Worked on a short-term project refreshing PCs at Walmart Supercenters and Neighborhood Markets across South Louisiana. 
-         The main goal was upgrading hardware from Windows XP to Windows 7—covering everything from front-of-store kiosks and pharmacy computers to management and security systems. 
-         I followed a structured process for swapping out each type of hardware, handling data migration, and troubleshooting any issues that popped up along the way. 
-         I also managed the on-site techs, tracked inventory, and made sure all updates were accurately logged into the project system.
+        quote: 
+        description: | 
+         Worked a short-term Windows XP to 7 refresh pc project where i travel to various Walmart stores across South Louisiana. Covered upgrading store kiosks, pharmacy and management workstations. 
+         I was assigned lead technician and help other technicians follow a structured process for swapping each departmental hardware. Help troubleshoot onsite issues that popped up during migration and escalated out of scope issues to project team. 
+         After each store completion, I logged upgraded inventory into the project system and prepared equipment for return to the project warehouse.
       - layout: left
         title: CBM Technology
         sub_title:  IT Specialist
         caption: July 2011 - February 2015
         link: cbm.technology
-        quote: >
+        quote: |
           Managed IT service provider in Breaux Bridge, LA 
-        description: | # this will include new lines to allow paragraphs
+        description: | 
          Provided support (on-site and remote) for clients in sectors like local and state government, sugar production, school districts, law enforcement, legal services, oil&gas and retail. 
          Technical issues from everyday hardware and software troubleshooting to new PC setups, software rollouts, network cabling, and full migrations domains and exchange. 
          Responsible for maintaining detailed work logs in ConnectWise to support accurate tracking and billing. 
@@ -191,9 +189,9 @@ content:
         sub_title: IT Technician
         caption: July 2008 - June 2011
         link: 
-        quote: >
+        quote: 
           Small  IT consulting comapny in Lafayette, LA
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           I started my career in IT support at Ntense Technologies, where I provided on-site and remote support to clients in various industries. 
           My responsibilities included troubleshooting hardware and software issues, setting up new PCs, and assisting with network cabling jobs. 
           I also gained experience in managing Active Directory and Exchange accounts.
@@ -210,8 +208,7 @@ content:
   - title: Beyond the Resume
     layout: text
     content: | # this will include new lines to allow paragraphs
-     I’m a big fan of the outdoors and love to spend time on the lake wakesurfing. I also enjoy rollerblading and cycling.
-     I’m originally from South Louisiana, but I’ve been living in Georgia since 2016.
+      Outdoor enthusiast into wakesurfing, rollerblading, and hiking. Born in South Louisiana, living in Georgia since 2016
 
 # Footer
 footer_show_references: true
