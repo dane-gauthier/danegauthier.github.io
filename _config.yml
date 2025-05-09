@@ -26,7 +26,9 @@ linkedin_username: danegauthier
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hey, I’m Dane Gauthier. I’ve been solving desktop and cloud tech challenges for over 15 years, with a current focus on Azure Virtual Desktop. I’m exploring my next opportunity, and I put this together to share a bit of how I think and what I can bring to a team.
+ Hey, I’m Dane. I’ve been working in tech space over 15  years around end users support space and IT operations. In my career, 
+ I’ve had the opportunity to work with a variety of technologies and have grown to microsoft azure cloud platform.  
+ ’m exploring my next opportunity, and I put this together to share a bit of how I think get through imposer syndrone. 
 
 content:
   - title: Projects # Title for the section
@@ -67,7 +69,7 @@ content:
         quote: >
           National law firm specializing in labor and employment law for employers 
         description: | # this will include new lines to allow paragraphs
-          t FP, I was part of a hardware refresh project where I provided on-site support to help both in-office 
+          At FP, I was part of a hardware refresh project where I provided on-site support to help both in-office 
           and remote employees and partners transition from Windows 10 to Windows 11 laptops. I followed established deployment 
           procedures, managed end-to-end data migrations, and installed critical business applications. For any issues beyond the 
           project scope, I documented and escalated them through the ticketing system to the appropriate support teams.
@@ -201,11 +203,12 @@ content:
         quote: >
           Small  IT consulting comapny in Lafayette, LA
         description: | # this will include new lines to allow paragraphs
-          This was my first gig in the tech world while I was still in college. Basically, I was the go-to person for setting up computers at client offices and hauling equipment between their office and ours. 
-          I also did a ton of network cabling jobs. Back then, spyware and malware were a real headache, so some days I'd be in the office, cleaning computers. 
-          It was a great learning experience – I picked up a lot about setting up computer images and even got to know the ins and outs of wireless internet equipment. 
-          Our clients span various sectors, from law enforcement and legal firms to student housing, the oil&gas industry, and retail.
-                                     
+          I started my career in IT support at Ntense Technologies, where I provided on-site and remote support to clients in various industries. 
+          My responsibilities included troubleshooting hardware and software issues, setting up new PCs, and assisting with network cabling jobs. 
+          I also gained experience in managing Active Directory and Exchange accounts.
+
+          
+
   - title: Education
     layout: list
     content:
