@@ -26,9 +26,9 @@ linkedin_username: danegauthier
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hey, I’m Dane. Over the past 15 years, I’ve worked in various End-User Support roles using a wide range of technologies. 
- Along the way, I’ve gain expertise across several Microsoft solutions, including Azure, AVD, and Intune/SCCM.
- Here a casual way sharing my background and experiences.
+ Hey, I’m Dane. Over the past 15 years, I’ve worked in various End-User Support roles. 
+ Along the way, I developed skills in various Microsoft solutions such as Azure, AVD, and Intune/SCCM.
+ I created this site to showcase technical projects and share more details about my professional background.
  
 content:
   - title: Projects 
