@@ -26,10 +26,10 @@ linkedin_username: danegauthier
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hey, I’m Dane. I’ve been working in tech space over 15  years around end users support space and IT operations. In my career, 
- I’ve had the opportunity to work with a variety of technologies and have grown to microsoft azure cloud platform.  
- ’m exploring my next opportunity, and I put this together to share a bit of how I think get through imposer syndrone. 
-
+ Hey, I’m Dane. Over the past 15 years, I’ve worked in various End-User Support roles using a wide range of technologies. 
+ Along the way, I’ve gain expertise across several Microsoft solutions, including Azure, AVD, and Intune/SCCM.
+ Here a casual way sharing my background and experiences.
+ 
 content:
   - title: Projects 
     layout: list 
@@ -47,8 +47,8 @@ content:
 
         description: | # this will include new lines to allow paragraphs
          This website is built using a Jekyll theme and hosted as a static site on GitHub Pages.
-         During its development, I gained experience with HTML/CSS, GitHub commands and repository 
-         management, and Docker for local development and testing. Link above to the GitHub repository.
+         During development, I gained experience with HTML/CSS, GitHub commands and repository 
+         management, and Docker for local testing. Link above to the GitHub repository.
   - title: Experience
     layout: list
     content:
