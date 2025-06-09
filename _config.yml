@@ -53,14 +53,6 @@ content:
     layout: list
     content:
       - layout: left
-        title: UPS 
-        sub_title: Automation Support Technician
-        caption: September 2024  - March 2025
-        link: 
-        quote: 
-        description:
-
-      - layout: left
         title: Fisher & Phillips (CDW)
         sub_title: Refresh Technical
         caption: May 2024 - Aug 2024
@@ -68,10 +60,9 @@ content:
         quote: >
           National law firm specializing in labor and employment law for employers 
         description: | 
-          At FP, I was part of a hardware refresh project where I provided on-site support to help both in-office 
-          and remote employees and partners transition from Windows 10 to Windows 11 laptops. I followed established deployment 
-          procedures, managed end-to-end data migrations, and installed critical business applications. For any issues beyond the 
-          project scope, I documented and escalated them through the ticketing system to the appropriate support teams.
+          Assisted in a hardware refresh project by transitioning employees and law partners from Windows 10 to Windows 11 laptops. Handled end-to-end data migrations, application installations, 
+          and system configurations in line with standardized deployment protocols to deliver a seamless user experience. Prepared laptops using Autopilot pre-provisioning steps and decommissioned 
+          outdated hardware. Escalated out-of-scope technical issues through the ticketing system to ensure prompt resolution by the appropriate support teams.
       - layout: left
         title: Thyssenkrupp Materials (TEKsystems) 
         sub_title: Azure Virtual Desktop Specialist
@@ -80,10 +71,9 @@ content:
         quote: >
            Global supplier of materials for the manufacturing and construction industries 
         description: | 
-          During my short-term contract at TK, I managed second-level support tickets, addressing network connectivity issues, 
-          printer-related problems, and thin client challenges within the AVD environment. 
-          I also contributed to a project focused on patching host pool VMs and applying software updates to enhance security.
-          At the end of each month, I generated comprehensive host pool utilization reports to support departmental invoicing.
+          Delivered second-level support for the Azure Virtual Desktop environment, resolving abnormal network connectivity, warehouse printer issues, and thin-client issues to minimize downtime. 
+          Collaborated on patching host-pool virtual machines and rolling out software updates to increase system security and compliance across the AVD infrastructure. Designed and implemented a 
+          host-pool utilization report that enabled accurate departmental invoicing and informed strategic resource planning.
       - layout: left
         title: CONA Services (TEKsystems)
         sub_title: Senior IT Support Specialist
@@ -92,18 +82,10 @@ content:
         quote: >
           Provides IT solutions for Coca-Cola bottlers in North America. 
         description: | 
-         Working at CONA was an great learning experience. I gain insight into the business technology behind how Coca-Cola bottlers distributed throughout the U.S. 
-         While there, I was part of a small team called Office IT. We served as the main point of contact for employees at all levels, both in-office and remote, 
-         who needed technical assistance with hardware and software issues. We also managed onsite office technology. Additionally, we managed an AVD environment that enabled offshore third-party 
-         contractors to support the homegrown SAP solution known as C1NA (Coke One North America).
-
-         The company heavily architected its environment around Microsoft cloud ecosystem, leveraging the major platforms within Office 365, including Entra, Exchange, Teams, Intune, PowerApps, 
-         and SharePoint. My team member and I supported all of these platforms. As part of my role, I was the primary point of contact for all Intune management, focusing on device management 
-         and software deployment. Some of my major Intune accomplishments include implementing Autopilot, migrating all supported hardware to Windows 11 using Feature Update, and implementing LAPS.
-
-         Additionally, I was assigned as the primary SME for the AVD environment. I led ongoing environment changes, educated the offshore Level 1 team, and acted as the last point of contact to resolve 
-         tickets. My major AVD accomplishments included implementing autoscaling across all persistent and non-persistent host pools, allocating proper VM sizing, and leveraging Winget to update software
-         within the environment.
+         Provided support for on-site and remote employees across all levels, addressing hardware, software, and office technology issues. Served as the primary Intune administrator, 
+         leading device management initiatives such as Autopilot deployment, Windows 11 migrations via Feature Updates, and Microsoft LAPS implementation. Acted as the subject matter expert 
+         for the Azure Virtual Desktop environment, serving as the final escalation point and driving improvements including host pool autoscaling, optimized VM sizing, automated software updates 
+         with Winget, and strengthened security configurations. Supported enterprise-wide Microsoft 365 services, including Entra, Exchange, Teams, PowerApps, and SharePoint.
       - layout: left
         title: Scientific Games
         sub_title: End-User Computing Engineer
@@ -112,21 +94,10 @@ content:
         quote: >
           Global leader in lottery games, casino technologies, and services for government-sponsored lotteries. 
         description: |
-          During my time at Scientific Games, I continued to use my support skill background while gaining more experience with SCCM. 
-          I played a significant role in the Windows 10 migration project and began my knowledge of AVD.
-
-          The SCCM responsibilities of the role gave me the opportunity to work in a larger environment. 
-          I enhanced my skills in operating system deployment, successfully decreasing os deployment times by minimizing the need for individual driver packages across the hardware fleet. 
-          I also gained more understanding of the PSADT, which I leverage to deploy complex software packages.
-
-          During the Windows 10 migration project, I created an efficient task sequence that upgraded our hardware fleet while managing McAfee encryption.
-          The process transition systems to Windows 10, installing new software, and updating drivers at the conclusion of the process. 
-
-          When the pandemic began, I was introduced to AVD. Our initial goal was to leverage it for remote work by our casino game developers. 
-          However, in the early stages of the platform, we encountered major graphics incompatibilities with our software. 
-          Another use case emerged during the divestiture of the business, we brought in several external consultants to assist. 
-          At the same time, hardware shortages were high due to supply chain issues. 
-          I recognized the opportunity to leverage AVD took the initiative to develop different host pools to support the business case.    
+          Provided Tier 3 technical support for the North America service desk, assisting onsite and remote employees with hardware, software, and office technology issues. 
+          Played a key role in the company-wide Windows 10 migration by developing and supporting OSD migration processes within SCCM and guiding service desk teams through migration support. 
+          Deployed Azure Virtual Desktop solutions to enable remote work during the pandemic and company divestiture, addressing hardware shortages by creating images and security policies for 
+          personal and pooled host pools. Supported hardware budgeting and procurement by developing SCCM-based reports to inform equipment replacement and new hire purchasing decisions.   
       - layout: left
         title: Artivion
         sub_title: Information Systems Specialist III
@@ -135,17 +106,10 @@ content:
         quote: >
           Medical device company specializing in aortic disease treatments, including stent grafts, heart valves, and sealants. 
         description: | 
-          I provided day-to-day hardware and software support to onsite staff, sales team, and overseas offices in Europe. 
-          Progressing though role, I took on additional responsibilities managing SCCM, JAMF, and the Avaya phone system. When SCCM was introduced, the systems team 
-          had limited bandwidth to manage OS deployment operations, I was tasked to implementation task sequences for imaging of Windows 10, packaged applications, and ensured deployment across entire hardware fleet.
-
-          As the environment evolved, JAMF was introduced to the managed mac fleet for a user choice program targeting the sales and executive teams. 
-          I played a key role in creating the baseline configuration profiles/policies and baseline packaged application in JAMF.  
-          I led the migration project that transitioned users from their previous Windows devices to their selected laptops. 
-          This included prepping equipment, coordinating migration date, managing hardware logistics, migrating data, and resolving any technical issues that arose.
-
-          I had the opportunity to provide IT support for sales conferences and to travel overseas to cross-train with team members following a acquisition. 
-          Also further my knowledge in JAMF and earned the JAMF 200 certification.
+         Supported hardware and software needs for onsite staff, sales teams, and European offices while expanding responsibilities to include administration of Office 365, SCCM, JAMF, 
+         and Avaya phone systems. Led the transition from WDS to SCCM for Windows PC imaging by developing task sequences and packaging applications to ensure consistent deployment across 
+         the hardware fleet. Played a key role in launching a Mac user-choice program by managing JAMF, establishing baseline processes, and migrating sales and executive teams from Windows 
+         to Mac devices. Provided IT support for international sales conferences, participated in overseas cross-training following an acquisition, and earned JAMF 200 certification.
       - layout: left
         title: UCB Pharma (Hays)
         sub_title: Desktop Support Technician
@@ -154,13 +118,9 @@ content:
         quote: 
           Global biopharmaceutical company focused on innovative medicines for severe immunology and neurology diseases.
         description: | 
-          My start at UCB I solo managed a lease-end quarter refresh project performing upgrades of 200 laptops. 
-          I worked with different level of users to transition from them old to new laptop. Transation process included imaging laptops with SCCM, data migration, software installation, configuring user settings. 
-          and performed cleanup computer object in Active Directory. 
-
-          When project was completed, I transitioned into a new role where I managed new hire equipment orientations and provided technical support at the campus. 
-          I handled on-site tickets, addressing issues related to hardware, business software, cell phones, and desk moves. 
-          Also managed asset assignments within BMC Helix ITSM.
+          Independently led a lease-end laptop refresh project replacing approximately 200 laptops. Migrated data and user settings, deploying user-assigned software, 
+          and imaging through SCCM. Coordinated with employees to ensure a smooth transition. Provided new-hire orientations for corporate equipment to ensure smooth onboarding. 
+          Delivered Level 2 on-site support for hardware, business applications, mobile devices, and desk relocations, managed asset management using BMC Helix ITSM.
       - layout: left
         title: Walmart (Compucom)
         sub_title: Lead Field Refresh Technician
@@ -168,9 +128,9 @@ content:
         link: 
         quote: 
         description: | 
-         Worked a short-term Windows XP to 7 refresh pc project where i travel to various Walmart stores across South Louisiana. Covered upgrading store kiosks, pharmacy and management workstations. 
-         I was assigned lead technician and help other technicians follow a structured process for swapping each departmental hardware. Help troubleshoot onsite issues that popped up during migration and escalated out of scope issues to project team. 
-         After each store completion, I logged upgraded inventory into the project system and prepared equipment for return to the project warehouse.
+         Windows XP to Windows 7 refresh project, Traveled to Walmart stores across South Louisiana to upgraded kiosks, pharmacy, and management workstations. 
+         Supported technicians in following a replacement process, troubleshooting issues during migration, and escalating out-of-scope problems to the project team. 
+         Completed post-migration tasks, including logging upgraded inventory and preparing replaced equipment for return to the project warehouse.
       - layout: left
         title: CBM Technology
         sub_title:  IT Specialist
@@ -179,25 +139,21 @@ content:
         quote: |
           Managed IT service provider in Breaux Bridge, LA 
         description: | 
-         Provided support (on-site and remote) for clients in sectors like local and state government, sugar production, school districts, law enforcement, legal services, oil&gas and retail. 
-         Technical issues from everyday hardware and software troubleshooting to new PC setups, software rollouts, network cabling, and full migrations domains and exchange. 
-         Responsible for maintaining detailed work logs in ConnectWise to support accurate tracking and billing. 
-         During a period my main responsibilities was serving as the dedicated onsite sysadmin for a large client. I would report onsite after our company standup meetings.
-         Addressing tech issues, technical projects, PC refreshes, administered changes Active Directory, Group Policy, and Exchange, supported a custom HRIS solution for client industry.
+         Provided on-site and remote IT support across diverse sectors including government, sugar production, education, law enforcement, legal services, oil & gas, and retail. 
+         Handled a wide range of technical issues from routine hardware and software troubleshooting to new PC setups, software deployments, network cabling, and full domain and Exchange migrations. 
+         Maintained detailed work logs in ConnectWise to ensure accurate tracking and billing. Served as the dedicated onsite sysadmin for a major client, managing technical issues, projects, 
+         PC refreshes, and administering Active Directory and Exchange.
       - layout: left
         title: Ntense Technologies
         sub_title: IT Technician
         caption: July 2008 - June 2011
         link: 
         quote: 
-          Small  IT consulting comapny in Lafayette, LA
+          Small  IT consulting company in Lafayette, LA
         description: | 
-          I started my career in IT support at Ntense Technologies, where I provided on-site and remote support to clients in various industries. 
-          My responsibilities included troubleshooting hardware and software issues, setting up new PCs, and assisting with network cabling jobs. 
-          I also gained experience in managing Active Directory and Exchange accounts.
-
-          
-
+         Started my IT support career providing on-site to clients across diverse industries, troubleshooting hardware and software issues, configuring new PCs, 
+         and supporting network cabling jobs. Gained valuable experience managing Active Directory and Exchange, as well as network troubleshooting.
+       
   - title: Education
     layout: list
     content:
@@ -205,10 +161,10 @@ content:
         title: South Louisiana Community College
         sub_title: A.S. Information Technology 
 
-  - title: Beyond the Resume
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Outdoor enthusiast into wakesurfing, rollerblading, and hiking. Born in South Louisiana, living in Georgia since 2016
+  # - title: Beyond the Resume
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Outdoor enthusiast into wakesurfing, rollerblading, and hiking. Born in South Louisiana, living in Georgia since 2016
 
 # Footer
 footer_show_references: true
